@@ -2,7 +2,7 @@
 
 This is an Arduino port of https://github.com/jefftranter/6502 written by [Jeff Tranter](https://jefftranter.blogspot.com).
 
-<img src="https://dadecoza.github.io/images/13CFFBA5-3438-4C8F-B93E-BF8A0CA2E03D.JPG" width="250"><img src="https://dadecoza.github.io/images/1D06DEE7-2237-49AE-B654-628A799465FD.JPG" width="250">
+<img src="https://dadecoza.github.io/images/13CFFBA5-3438-4C8F-B93E-BF8A0CA2E03D.JPG" width="250">&nbsp;<img src="https://dadecoza.github.io/images/1D06DEE7-2237-49AE-B654-628A799465FD.JPG" width="250">
 
 ### Below is the games original README.txt ...
 
